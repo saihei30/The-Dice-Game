@@ -1,7 +1,7 @@
 # The-Dice-Game
 A game made by JavaScript
 
-This is a game that I learn to make on class. 
+This is a game that I make from learning JavaScript.
 
 Step 1: Press to roll dice button.
 Step 2: If the player rolled 1, then it will switch to another player. All scores will be removed when a player rolled 1
